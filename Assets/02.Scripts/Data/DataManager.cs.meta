@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/02.Scripts/Data/DataManager.cs.meta
+guid: 2c76ed050becb7841b4c22130da1c526
+========
+guid: 39e23fdf4e1bdd141a767ae5780f8468
+>>>>>>>> junhyung:Assets/02.Scripts/GameData/GameData.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

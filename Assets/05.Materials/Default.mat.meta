@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/05.Materials/Default.mat.meta
+guid: fdfc411c10366e34086ef3f3ff4208ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 5018c4ae29b9b5e4a8fd7a65f649bd8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>>> EunjooBranch:Assets/03.Prefabs/Enemy/Sniper/AssassinateDie.anim.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

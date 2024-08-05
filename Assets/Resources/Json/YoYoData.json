@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 100,
+      "name": "Normal Disk",
+      "type": "Disk",
+      "attack": 1,
+      "attackSpeed": 1,
+      "attackRange": 1,
+      "imagePath": "YoYo/Disk/Normal_Disk"
+    },
+    {
+      "id": 101,
+      "name": "Iron Disk",
+      "type": "Disk",
+      "attack": 1.2,
+      "attackSpeed": 1.5,
+      "attackRange": 1,
+      "imagePath": "YoYo/Disk/Iron_Disk"
+    },
+    {
+      "id": 102,
+      "name": "Blade Disk",
+      "type": "Disk",
+      "attack": 1.5,
+      "attackSpeed": 2,
+      "attackRange": 1.2,
+      "imagePath": "YoYo/Disk/Blade_Disk"
+    },
+    {
+      "id": 150,
+      "name": "Normal Wire",
+      "type": "Wire",
+      "attack": 0.7,
+      "attackSpeed": 1,
+      "attackRange": 1,
+      "imagePath": "YoYo/Wire/Normal_Wire"
+    },
+    {
+      "id": 151,
+      "name": "Thorn Wire",
+      "type": "Wire",
+      "attack": 1.2,
+      "attackSpeed": 1.2,
+      "attackRange": 1,
+      "imagePath": "YoYo/Wire/Thorn_Wire"
+    },
+    {
+      "id": 152,
+      "name": "Electric Wire",
+      "type": "Wire",
+      "attack": 1.5,
+      "attackSpeed": 0.8,
+      "attackRange": 0.5,
+      "imagePath": "YoYo/Wire/Electric_Wire"
+    }
+  ]
+}

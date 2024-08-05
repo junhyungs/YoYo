@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: 966e1e03af7f39840b179c3f7489195e
+<<<<<<<< HEAD:Assets/GPM/UI/Sample/InfiniteScroll/Scene/SampleScene.unity.meta
+guid: 2413a73240b5a2b4bb31eb330b5614e0
+========
+guid: acd18b79f21fb1a4cbce1b9e0d6d768f
+>>>>>>>> EunjooView:Assets/yoyov.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

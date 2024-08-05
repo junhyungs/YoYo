@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": 1001,
+      "name": "Thomas",
+      "type": "Root",
+      "power": 1,
+      "attackSpeed": 1,
+      "health": 100,
+      "defense": null,
+      "moveSpeed": 1
+    }
+  ]
+}

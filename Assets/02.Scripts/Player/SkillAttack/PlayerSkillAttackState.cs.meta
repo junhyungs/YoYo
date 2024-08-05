@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/02.Scripts/Player/OnEffect.cs.meta
+guid: 51315cd5a95e82948af072f9eb4a12b6
+========
+guid: 6809d60cb3bb5654cb5e290b9da4612e
+>>>>>>>> EunjooWook:Assets/02.Scripts/Player/SkillAttack/PlayerSkillAttackState.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

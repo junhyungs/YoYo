@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/GPM/CacheStorage/Editor/CacheStorageTreeItem.cs.meta
+guid: df29483c973580f4aa94725a152eeb64
+========
+guid: ec412de5ce951094eb007b1a1893b631
+>>>>>>>> junhyung:Assets/02.Scripts/Player/Astar/PathFind.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

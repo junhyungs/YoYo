@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/02.Scripts/Enemy/PaladinWeapon.cs.meta
+guid: 2c29abf230f4f274494c5402f387b9ec
+========
+guid: bef8b2b569edd3a45adb7ebf3aa7d42e
+>>>>>>>> EunjooWook:Assets/02.Scripts/Enemy/EnemyHealth.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

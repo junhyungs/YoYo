@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/02.Scripts/Manager/GameManager.cs.meta
+guid: 4615ca55df622be45a4a24702a62a87a
+========
+guid: cb50b7d3cc997c443a4f3320e56e691f
+>>>>>>>> junhyung:Assets/02.Scripts/Player/Astar/Astar.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

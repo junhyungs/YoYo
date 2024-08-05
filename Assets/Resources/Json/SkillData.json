@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "id": 130,
+      "name": "Assassination",
+      "description": "요요를 사용하여 적의 목을 조르는 기술",
+      "attackType": "근거리",
+      "skillType": "Active",
+      "slotNumbering": "Free",
+      "attackMultiplier": 0,
+      "cooldown": 20,
+      "delay": 0,
+      "target": "Single",
+      "range": 1,
+      "skillArea": null,
+      "skillSize": null,
+      "specialFunction": "Execution",
+      "specialFunctionValue": "TRUE"
+    },
+    {
+      "id": 131,
+      "name": "Defense",
+      "description": "특수한 요요로 적의 공격을 막는 기술",
+      "attackType": "근거리",
+      "skillType": "Active",
+      "slotNumbering": "Free",
+      "attackMultiplier": 0,
+      "cooldown": 10,
+      "delay": 0,
+      "target": "Single",
+      "range": 1,
+      "skillArea": null,
+      "skillSize": null,
+      "specialFunction": "Melee_Defense",
+      "specialFunctionValue": "TRUE"
+    },
+    {
+      "id": 132,
+      "name": "Pull",
+      "description": "요요를 사용하여 적이나 물체를 끌어당기는 기술",
+      "attackType": "원거리",
+      "skillType": "Active",
+      "slotNumbering": "Free",
+      "attackMultiplier": 0.2,
+      "cooldown": 10,
+      "delay": 0,
+      "target": "Single",
+      "range": 8,
+      "skillArea": null,
+      "skillSize": null,
+      "specialFunction": "Is_Grab",
+      "specialFunctionValue": 5000
+    },
+    {
+      "id": 133,
+      "name": "Move",
+      "description": "요요를 사용하여 로프 액션으로 지형과 상호작용해 이동하는 기술",
+      "attackType": "원거리",
+      "skillType": "Active",
+      "slotNumbering": "Free",
+      "attackMultiplier": 0.2,
+      "cooldown": 5,
+      "delay": 0,
+      "target": "Single",
+      "range": 10,
+      "skillArea": null,
+      "skillSize": null,
+      "specialFunction": "Is_Grab",
+      "specialFunctionValue": 5000
+    }
+  ]
+}
